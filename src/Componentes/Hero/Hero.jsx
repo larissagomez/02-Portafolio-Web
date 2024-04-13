@@ -11,7 +11,7 @@ export const Hero = () => {
                 <p className={styles.description}>
                     Aqui encontrarás desde dibujos en Pixelart hasta modelados 3D.
                 </p>
-                <a className={styles.contactBtn} id="contacto"> Contáctenos</a>
+                <a className={styles.contactBtn} href="#contacto"> Contáctenos</a>
             </div>
     </section>
         );
